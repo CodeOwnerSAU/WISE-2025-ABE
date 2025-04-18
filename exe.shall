@@ -1,3 +1,0 @@
-g++ -std=c++17 -O3 main.cpp graph.cpp Grid.cpp H2H.cpp IG-Tree.cpp MBR.cpp Point.cpp SKORP.cpp tools.cpp  -L/usr/local/lib/ -lmetis -pthread  -o SKORP
-
-g++ -std=c++17 -O3 main.cpp graph.cpp Grid.cpp H2H.cpp IG-Tree.cpp MBR.cpp Point.cpp SKORP.cpp Top_K_SKORP.cpp   tools.cpp  -L/usr/local/lib/ -lmetis -pthread  -o SKORP
