@@ -1,8 +1,8 @@
-# Welcome to ABE
+# Welcome to SBE
 
-## 🚀 Welcome to the repo of ABE
+## 🚀 Welcome to the repo of SBE
 
-The source code for the WISE paper under review: *Finding Top-k Keywords-Aware Optimal Routes: An Aggregation-Based Expansion Approach.*
+The source code for the WISE2025 paper under review: *Finding Top-k Keywords-Aware Optimal Routes: An Splice-Based Expansion Approach.*
 
 ## 🏠 Overview  
 
@@ -33,6 +33,6 @@ mkdir build
 cd build
 cmake..
 make
-./ABE
+./SBE
 ```
 
